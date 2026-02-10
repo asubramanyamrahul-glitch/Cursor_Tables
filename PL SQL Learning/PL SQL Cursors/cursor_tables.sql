@@ -38,9 +38,4 @@ INSERT INTO COMPANY_EMP_MASTER VALUES (6, 'Akhil', 103, 55000, 'ACTIVE');
 commit;
 
 
-Attribute	             Meaning
-emp_cursor%FOUND	     TRUE if row fetched
-emp_cursor%NOTFOUND	     TRUE if no row fetched
-emp_cursor%ROWCOUNT	     number of rows fetched
-emp_cursor%ISOPEN	     cursor open or not
 
